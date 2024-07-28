@@ -1,2 +1,9 @@
-package _01;public enum TaskType {
+package _01;
+
+public enum TaskType {
+
+    CODING,
+    READING,
+    WRITING
 }
+
