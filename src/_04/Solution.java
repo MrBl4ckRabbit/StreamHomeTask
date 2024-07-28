@@ -1,0 +1,2 @@
+package _04;public class Solution {
+}
